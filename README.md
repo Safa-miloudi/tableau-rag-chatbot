@@ -19,7 +19,7 @@ Built using **LangChain**, **Google Gemini**, and **ChromaDB**, the system retri
 
 ## 📂 Project Structure
 ```bash
-├── data/                  # Contains the source PDF transcript
+├── Data/                  # Contains the source PDF transcript
 ├── LangChain_Project.ipynb       # Main Jupyter Notebook with the RAG pipeline
 ├── requirements.txt       # Python dependencies
 └── README.md              # Project documentation
